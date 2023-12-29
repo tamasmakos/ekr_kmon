@@ -1,0 +1,7 @@
+buyer_activity,contract_type,buyer_type,quality_criteria,Subnetwork_ID,Number_of_Nodes,Number_of_Winners,Number_of_Buyers,Number_of_Edges,Number_of_Subgraphs,Assortativity_Coefficient,Density
+KL - Általános közszolgáltatások,Építési beruházás,N - Regionális/helyi szintű,Igen,network_428,4800,2703,2097,6205,201,0.7776031055572246,0.0005387407098701118
+KL - Egyéb tevékenység:,Építési beruházás,N - Regionális/helyi szintű,Igen,network_25,978,586,392,805,209,0.8865972632526241,0.0016849711043154098
+KL - Általános közszolgáltatások,Szolgáltatás megrendelés,N - Regionális/helyi szintű,Igen,network_424,1583,720,863,2034,113,0.7112581771638944,0.0016244021297716813
+KL - Egyéb tevékenység:,Építési beruházás,N - Közjogi szervezet,Igen,network_9,651,455,196,615,74,0.5027729224660668,0.0029067706487061326
+KL - Egyéb tevékenység:,Szolgáltatás megrendelés,U - Közjogi intézmény,Igen,network_43,776,543,233,1014,35,0.2518631602494417,0.0033721316927169936
+KL - Egyéb tevékenység:,Építési beruházás,U - Egyéb típus:,Igen,network_39,1037,536,501,1035,133,0.5436208631039169,0.0019267786866629683
